@@ -54,15 +54,6 @@ button:active {
     box-sizing: border-box;
 }
 
-.equal {
-    width: calc(50% - 10px);
-}
-
 .operator {
     color: #78f542;
 }
-
-
-
-
-
